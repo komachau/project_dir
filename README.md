@@ -1,3 +1,2 @@
 # project_dir
-new
-beginning
+This is the first file in the assignment .
